@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently work at getmobit as a devops engineer
 - 🌱 I’m currently learning to take the CNCF CKA exam
 - 📫 How to reach me: 
