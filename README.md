@@ -11,8 +11,8 @@
   - [CKA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a65efbe5-505c-5900-adf7-b80d3602b4bc-pavel-tishkov-certified-kubernetes-administrator-cka-certificate.pdf)
   - other narrowly focused Vendor certifications
 - 📫 How to reach me:
-  - telegram: @flsixtyfour
-  - email: flsixtyfour@gmail.com
-  - [personal web page](https://bit.ly/ptishkov)
-  - [linkedin](https://bit.ly/pt_linkedin)
-  - [hh.ru](https://bit.ly/pt_hh0)
+  - telegram: [@flsixtyfour](https://t.me/flsixtyfour)
+  - email: [flsixtyfour@gmail.com](mailto://flsixtyfour@gmail.com)
+  - personal page: [https://fl64.github.io](https://bit.ly/ptishkov)
+  - linkedin: [here](https://bit.ly/pt_linkedin)
+  - hh.ru: [here](https://bit.ly/pt_hh0)
