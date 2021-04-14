@@ -3,7 +3,7 @@
 ![](https://views.whatilearened.today/views/github/fl64/views.svg)
 ![](https://img.shields.io/github/followers/fl64?style=social)
 
-- 🔭 I’m currently work at Getmobit (Getmobit LLC) as a DevOps engineer
+- 🔭 I’m currently work at [Tinkoff Bank](https://tinkoff.ru) as a SRE engineer
 - 🌱 I have have experience in Security, System administration and some programming experience on Python and Go.
 - 🏆 Some of the certification exams I used to take:
   - [CCNA](https://www.youracclaim.com/badges/2e0dac2b-a251-417b-a2da-0e668d06b363/linked_in_profile)
