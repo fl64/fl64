@@ -9,6 +9,7 @@
   - [CCNA](https://www.youracclaim.com/badges/2e0dac2b-a251-417b-a2da-0e668d06b363/linked_in_profile)
   - [RHCSA/RHCE](https://rhtapps.redhat.com/verify/?certId=160-163-135&isSearch=False&verify=Verify)
   - [CKA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a65efbe5-505c-5900-adf7-b80d3602b4bc-pavel-tishkov-certified-kubernetes-administrator-cka-certificate.pdf)
+  - [CKS](https://www.credly.com/badges/cbef43ab-44f8-4286-8ade-585f8e31f0b3/public_url)
   - other narrowly focused Vendor certifications
 - 📫 How to reach me:
   - telegram: [@flsixtyfour](https://t.me/flsixtyfour)
