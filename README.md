@@ -1,4 +1,4 @@
-### Hello world, fuck the war!
+### Hello world!
 
 ![](https://views.whatilearened.today/views/github/fl64/views.svg)
 ![](https://img.shields.io/github/followers/fl64?style=social)
