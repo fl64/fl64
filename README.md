@@ -1,10 +1,10 @@
 ### Hello world!
 
-> Life was simple before World War II. After that, we had systems.
-> - Grace Murray Hopper
-
 ![](https://views.whatilearened.today/views/github/fl64/views.svg)
 ![](https://img.shields.io/github/followers/fl64?style=social)
+
+> Life was simple before World War II. After that, we had systems.
+> - Grace Murray Hopper
 
 - 🔭 I’m currently work at [Flant](https://flant.com) as a SRE engineer and working on [d8/v12n](https://github.com/deckhouse/virtualization)
 - 🌱 I have have experience in Security, System administration, Networking and some programming experience on Python and Go.
