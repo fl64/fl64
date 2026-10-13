@@ -6,8 +6,14 @@
 > Life was simple before World War II. After that, we had systems.
 > - Grace Murray Hopper
 
-- 🔭 I’m currently work at [Flant](https://flant.com) as a SRE engineer and working on [d8/v12n](https://github.com/deckhouse/virtualization)
-- 🌱 I have have experience in Security, System administration, Networking and some programming experience on Python and Go.
+- 🔭 I'm a Technical Product Manager (Technical Director) at [Flant](https://flant.com), leading [Deckhouse Virtualization Platform](https://github.com/deckhouse/virtualization): virtual machines on Kubernetes, KubeVirt-based
+  - built the team from scratch
+  - led the rebuild of the virtualization module from scratch through the 1.0 release and FSTEC of Russia certification
+  - hands-on contributor to the codebase (Go)
+- 🌱 SRE at heart with 20+ years in IT: Kubernetes, virtualization, networking, security, automation. AI agents multiplied my speed in development.
+- 🎤 Talks:
+  - HighLoad++ 2025: [Виртуальные машины как полноправные жители Kubernetes](https://highload.ru/moscow/2025/abstracts/16356)
+  - Deckhouse Conf 2026: [Делаем нормальные виртуалки в Kubernetes](https://deckhouseconf.ru/)
 - 🏆 Some of the certification exams I used to take:
   - [CCNA](https://www.youracclaim.com/badges/2e0dac2b-a251-417b-a2da-0e668d06b363/linked_in_profile)
   - [RHCSA/RHCE](https://rhtapps.redhat.com/verify/?certId=160-163-135&isSearch=False&verify=Verify)
@@ -17,7 +23,7 @@
   - and other narrowly focused Vendor certifications
 - 📫 How to reach me:
   - telegram: [@flsixtyfour](https://t.me/flsixtyfour)
-  - email: [flsixtyfour@gmail.com](mailto://flsixtyfour@gmail.com)
+  - email: [flsixtyfour@gmail.com](mailto:flsixtyfour@gmail.com)
   - personal page: [https://fl64.github.io](https://bit.ly/ptishkov)
   - linkedin: [here](https://bit.ly/pt_linkedin)
   - hh.ru: [here](https://bit.ly/pt_hh0)
